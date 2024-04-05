@@ -1,0 +1,14 @@
+{
+  "validEmployee": [
+    {
+      "employeeName": "Jaimy Henman",
+      "employeeNumber": "25646"
+    }
+  ],
+  "invalidEmployee": [
+    {
+      "employeeName": "",
+      "employeeNumber": ""
+    }
+  ]
+}

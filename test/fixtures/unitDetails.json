@@ -1,0 +1,15 @@
+{
+  "validUnit": [
+    {
+      "unitNumber": "12GA",
+      "unitType": "RORO",
+      "unitRegistration": "728STO",
+      "unitDescription": "IVECO ACCO F2350 6X4 RORO"
+    }
+  ],
+  "invalidUnit": [
+    {
+      "unitNumber": ""
+    }
+  ]
+}
